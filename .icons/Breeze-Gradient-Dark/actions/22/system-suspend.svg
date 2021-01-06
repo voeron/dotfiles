@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="system-suspend.svg"
+   id="svg9"
+   version="1.1"
+   viewBox="0 0 22 22">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13">
+    <linearGradient
+       id="linearGradient844"
+       inkscape:collect="always">
+      <stop
+         id="stop840"
+         offset="0"
+         style="stop-color:#00d4aa;stop-opacity:1" />
+      <stop
+         id="stop842"
+         offset="1"
+         style="stop-color:#0094d4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="16.423929"
+       x2="14.913218"
+       y1="6.6063418"
+       x1="5.8293414"
+       id="linearGradient846"
+       xlink:href="#linearGradient844"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="6.5"
+       x2="19"
+       y1="6.5"
+       x1="10"
+       id="linearGradient854"
+       xlink:href="#linearGradient844"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="svg9"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="11"
+     inkscape:cx="11"
+     inkscape:zoom="28.545455"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="1013"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <style
+     id="current-color-scheme"
+     type="text/css">
+        .ColorScheme-Text {
+            color:#eff0f1;
+        }
+    </style>
+  <g
+     id="g7"
+     fill="currentColor"
+     class="ColorScheme-Text">
+    <path
+       style="fill-opacity:1;fill:url(#linearGradient846)"
+       id="path3"
+       d="M 7.047,4.049 A 7.995,8 0 0 0 3,11 a 7.995,8 0 0 0 7.994,8 7.995,8 0 0 0 6.938,-4.043 7.995,8 0 0 0 0.01,-0.006 L 17.203,14.213 A 6.996,7 0 0 1 17.199,14.219 6.996,7 0 0 1 13.992,15 6.996,7 0 0 1 6.998,8 6.996,7 0 0 1 7.783,4.787 Z M 6.303,5.82 A 7.995,8 0 0 0 5.998,8 7.995,8 0 0 0 13.992,16 7.995,8 0 0 0 16.18,15.687 6.996,7 0 0 1 10.994,18 6.996,7 0 0 1 4,11 6.996,7 0 0 1 6.303,5.82 Z" />
+    <path
+       style="fill-opacity:1.0;fill:url(#linearGradient854)"
+       id="path5"
+       d="m 10,6 v 1 h 2.293 l -2,2 L 10,9.293 V 10 h 4 V 9 h -2.293 l 2,-2 L 14,6.707 V 6 h -0.707 z m 5,-3 v 1 h 2.293 l -2,2 L 15,6.293 V 7 h 4 V 6 h -2.293 l 2,-2 L 19,3.707 V 3 h -0.707 z" />
+  </g>
+</svg>

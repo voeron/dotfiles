@@ -1,0 +1,1 @@
+[2020-12-30 10:57:13.514] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/sami/.config/awesome/.vscode'
